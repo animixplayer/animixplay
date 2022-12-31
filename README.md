@@ -29,7 +29,7 @@ L : toggle lights
 , : previous frame
 Shift + ←/→ : seek 85s (skip opening)
 
-Standard video player keys :
+Standard video [animixplay](https://www.trainsim.com/vbts/member.php?599600-animixplay) player keys :
 Space, F, K, M, ←, →, ↑, ↓
 
 ##Mobile touch screen on Animixplay
