@@ -18,7 +18,7 @@ I have problem when playing video, what can i do?
 This is not a problem, just player can't remember last played position. If you want to allow playback progress saving, your browser setting shouldn't block cookies (that setting also block localstorage), read this tutorial to allow it
 Why player in iOS different from other device?
 [Animixplay](https://animixplay.fun)
-HLS playback is forced to use iOS own system with no manual quality select, websites have very limited control over how the player behaves.
+HLS playback is forced to use iOS own system with no manual quality select, websites have very limited control over how the [animix](https://animixplaying.blogspot.com) player behaves.
 All browsers in iOS are the same. Just get used to it, or use another device.
 
 ## Animixplay Website Keyboard Shortcuts
